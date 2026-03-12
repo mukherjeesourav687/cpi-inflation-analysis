@@ -1,6 +1,6 @@
 # CPI Inflation Analysis in India (2013–2023)
 
-This project analyzes Consumer Price Index (CPI) trends in India using Excel to understand inflation patterns, category contributions, and economic impacts over time.
+This project analyzes Consumer Price Index (CPI) trends in India using Microsoft Excel to understand inflation patterns, category contributions, and economic impacts over time.
 
 ## Objectives
 
@@ -8,7 +8,7 @@ This project analyzes Consumer Price Index (CPI) trends in India using Excel to 
 2. Examine the year-on-year CPI inflation trend.
 3. Study food inflation trends for the most recent 12 months.
 4. Evaluate the impact of COVID-19 on CPI inflation.
-5. Analyze the relationship between oil prices and CPI using correlation.
+5. Analyze the relationship between oil prices and CPI categories using correlation.
 
 ## Tools Used
 
@@ -21,27 +21,27 @@ This project analyzes Consumer Price Index (CPI) trends in India using Excel to 
 ## Key Insights
 
 - Food and beverages contribute the largest share (~45%) to the CPI basket.
-- CPI shows a steady upward trend from 2013 to 2023.
-- Food inflation shows moderate volatility with monthly fluctuations.
-- COVID-19 significantly impacted inflation trends due to supply chain disruptions.
-- Oil price fluctuations strongly affect transport and other CPI categories.
+- CPI shows a steady upward trend from 2013 to 2023, indicating rising inflation levels.
+- Food inflation shows moderate volatility with noticeable monthly fluctuations.
+- COVID-19 significantly impacted inflation trends due to supply chain disruptions and economic slowdown.
+- Oil price fluctuations strongly affect transport and other CPI-related categories.
 
 ## Visualizations
 
 ### Contribution of Categories to CPI Basket
-![CPI Contribution](images/Screenshot 2026-03-13 012522.png)
+![CPI Contribution](images/cpi_category_contribution.png)
 
 ### Year-on-Year CPI Trend
-![YoY CPI Trend](images/Screenshot 2026-03-13 023030.png)
+![YoY CPI Trend](images/yoy_cpi_trend.png)
 
-### Food CPI Trend
-![Food CPI Trend](images/Screenshot 2026-03-13 023047.png)
+### Food CPI Trend (Recent 12 Months)
+![Food CPI Trend](images/food_cpi_trend.png)
 
 ### Impact of COVID-19 on CPI
-![COVID Impact](images/Screenshot 2026-03-13 023102.png)
+![COVID Impact](images/covid_cpi_impact.png)
 
 ### Oil Price Impact on CPI Categories
-![Oil Price Correlation](images/Screenshot 2026-03-13 023117.png)
+![Oil Price Correlation](images/oil_price_correlation.png)
 
 ## Files
 
