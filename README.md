@@ -1,6 +1,6 @@
 # CPI Inflation Analysis in India (2013–2023)
 
-This project analyzes Consumer Price Index (CPI) trends in India using Excel.
+This project analyzes Consumer Price Index (CPI) trends in India using Excel to understand inflation patterns, category contributions, and economic impacts over time.
 
 ## Objectives
 
@@ -25,6 +25,23 @@ This project analyzes Consumer Price Index (CPI) trends in India using Excel.
 - Food inflation shows moderate volatility with monthly fluctuations.
 - COVID-19 significantly impacted inflation trends due to supply chain disruptions.
 - Oil price fluctuations strongly affect transport and other CPI categories.
+
+## Visualizations
+
+### Contribution of Categories to CPI Basket
+![CPI Contribution](Screenshot 2026-03-13 012522.png)
+
+### Year-on-Year CPI Trend
+![YoY CPI Trend](Screenshot 2026-03-13 023030.png)
+
+### Food CPI Trend
+![Food CPI Trend](Screenshot 2026-03-13 023047.png)
+
+### Impact of COVID-19 on CPI Inflation
+![COVID Impact](Screenshot 2026-03-13 023102.png)
+
+### Oil Price Impact on CPI Categories
+![Oil Price Correlation](Screenshot 2026-03-13 023117.png)
 
 ## Files
 
