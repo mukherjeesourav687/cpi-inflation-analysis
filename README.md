@@ -29,19 +29,19 @@ This project analyzes Consumer Price Index (CPI) trends in India using Excel to 
 ## Visualizations
 
 ### Contribution of Categories to CPI Basket
-![CPI Contribution](Screenshot 2026-03-13 012522.png)
+![CPI Contribution](cpi_category_contribution.png)
 
 ### Year-on-Year CPI Trend
-![YoY CPI Trend](Screenshot 2026-03-13 023030.png)
+![YoY CPI](yoy_cpi_trend.png)
 
 ### Food CPI Trend
-![Food CPI Trend](Screenshot 2026-03-13 023047.png)
+![Food CPI](food_cpi_trend.png)
 
-### Impact of COVID-19 on CPI Inflation
-![COVID Impact](Screenshot 2026-03-13 023102.png)
+### Impact of COVID-19 on CPI
+![COVID Impact](covid_cpi_impact.png)
 
 ### Oil Price Impact on CPI Categories
-![Oil Price Correlation](Screenshot 2026-03-13 023117.png)
+![Oil Impact](oil_price_correlation.png)
 
 ## Files
 
