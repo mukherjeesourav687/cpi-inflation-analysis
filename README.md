@@ -7,7 +7,7 @@ This project analyzes Consumer Price Index (CPI) trends in India using Microsoft
 1. Analyze the contribution of different categories to the CPI basket.
 2. Examine the year-on-year CPI inflation trend.
 3. Study food inflation trends for the most recent 12 months.
-4. Evaluate the impact of COVID-19 on CPI inflation.
+4. Compare CPI patterns before and during the COVID-19 period.
 5. Analyze the relationship between oil prices and CPI categories using correlation.
 
 ## Tools Used
@@ -21,10 +21,10 @@ This project analyzes Consumer Price Index (CPI) trends in India using Microsoft
 ## Key Insights
 
 - Food and beverages contribute the largest share (~45%) to the CPI basket.
-- CPI shows a steady upward trend from 2013 to 2023, indicating rising inflation levels.
+- A rising CPI indicates a higher price level. Inflation rates require percentage changes in the index; rising CPI alone does not imply an accelerating inflation rate.
 - Food inflation shows moderate volatility with noticeable monthly fluctuations.
-- COVID-19 significantly impacted inflation trends due to supply chain disruptions and economic slowdown.
-- Oil price fluctuations strongly affect transport and other CPI-related categories.
+- The charts compare CPI patterns around the COVID-19 period; they do not isolate a causal effect.
+- Oil-price comparisons explore correlation with CPI categories; correlation does not establish causation.
 
 ## Visualizations
 
@@ -45,7 +45,7 @@ This project analyzes Consumer Price Index (CPI) trends in India using Microsoft
 
 ## Files
 
-- `CPI_Inflation_Analysis.xlsx` — Full analysis including pivot tables, charts, and insights.
+- [All India CPI workbook](CPI-Inflation-Analysis/All_India_Index_Upto_April23.xlsx) — Full analysis including pivot tables, charts, and insights.
 
 ## Author
 
